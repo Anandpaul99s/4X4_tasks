@@ -50,7 +50,7 @@
 ## Models used Groq provided model => Llama3-8b-8192
 ## For the purpose to generate embeddings => Google Generative AI Embeddings
 
-==========================================================================
+
 # Install Dependencies
 
 	Make sure you have Python 3.8 or higher installed.
@@ -77,7 +77,7 @@
 		├── key_values/     # JSON of extracted key-value pairs
 		└── text/           # Full extracted text
 
-=======================================================================================
+
 
 ## Assignment 2: Conversational AI Bot
 	File: app.py
@@ -96,9 +96,8 @@
 
   3) Chat live with your documents
 
-## API key required : Make sure to configure GROQ_API_KEY and GOOGLE_API_KEY in .env .
+# API key required : Make sure to configure GROQ_API_KEY and GOOGLE_API_KEY in .env .
 
-=======================================================================================
 
 ## Assignment 3: Retrieval-Augmented Generation (RAG)
 	File: task_3.py
@@ -113,9 +112,9 @@
 		
 	2) Ask questions in the terminal. Responses will include both the answer and the source chunks.
 
-## API key required : Make sure to configure GROQ_API_KEY and GOOGLE_API_KEY in .env .
+# API key required : Make sure to configure GROQ_API_KEY and GOOGLE_API_KEY in .env .
 
-=====================================================
+
 
 ## Assignment 4: Document Summarization Engine
 	File: task4.py
@@ -126,15 +125,13 @@
 	python task4.py
 	Make sure the file path (inside the script) points to your target .pdf  OR RUN THE SCRIPT PROVIDE FILE PATH IN COMMAND LINE, MAKE SURE THAT FILE IS IN SAME FOLDER.
 	
-## API key required: Make sure to configure GROQ_API_KEY
+# API key required: Make sure to configure GROQ_API_KEY
 
 ## Output:
 	summary_output.txt
 
 (I was not able to run this task4.py file because my token limit is exceeding more than its need because i have used map-reduce)
 
-
-==============================================================================================
 
 ## Assignment 5: AI Agentic Workflow Simulation
 	File: task5.py
