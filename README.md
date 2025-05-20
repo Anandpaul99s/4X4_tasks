@@ -5,27 +5,7 @@
 
 ## => Folder Structure
 
-├── task_1
-|	├── pdfs/ # Input PDFs for extraction/summarization
-|	├── output/ # Output from task_1
-|	│ 	├── tables/ # Extracted tables (CSV)
-|	│ 	├── key_values/ # Key-Value pair JSONs
-|	│	└── text/ # Extracted text files
-|	|__ task_1.py
-|
-├── task_2
-|	├── app.py  # Conversational AI Bot
-|	├── requirements.py
-|
-├── task_3
-|	├── knowledge_base (# This Folder all the pdfs)
-|	├── task_3.py # Retrieval-Augmented Generation (RAG) Pipeline
-|
-├── task_4
-|	├── task_4.py # Document Summarization Tool
-|
-├── task_5
-	|──  task5.py # Multi-Agent AI Workflow (Market Research Bot)
+![folder](https://github.com/user-attachments/assets/a88c2170-6d9b-4c0b-9ec2-82cc3b17ec58)
 
 
 ## API Key Configuration
