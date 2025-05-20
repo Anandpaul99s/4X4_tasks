@@ -58,7 +58,7 @@
 		└── text/           # Full extracted text
 
 
-
+=========================================================
 ## Assignment 2: Conversational AI Bot
 	File: app.py
 		Objective: Create a chatbot that answers questions using uploaded PDFs or text documents.
@@ -78,7 +78,7 @@
 
 # API key required : Make sure to configure GROQ_API_KEY and GOOGLE_API_KEY in .env .
 
-
+===================================================================================
 ## Assignment 3: Retrieval-Augmented Generation (RAG)
 	File: task_3.py
 	Objective: Implement RAG with FAISS, Google embeddings, and LLMs.
@@ -94,7 +94,7 @@
 
 # API key required : Make sure to configure GROQ_API_KEY and GOOGLE_API_KEY in .env .
 
-
+=====================================================================================
 
 ## Assignment 4: Document Summarization Engine
 	File: task4.py
@@ -112,6 +112,7 @@
 
 (I was not able to run this task4.py file because my token limit is exceeding more than its need because i have used map-reduce)
 
+===================================================================================
 
 ## Assignment 5: AI Agentic Workflow Simulation
 	File: task5.py
