@@ -1,0 +1,16 @@
+langchain==0.3.21
+langchain-core==0.3.59
+langchain-community==0.3.20
+langchain-groq==0.2.1
+langchain-google-genai==2.0.6
+langchain-google-community==2.0.3
+langchain-google-vertexai==2.0.7
+pandas
+requests
+fitz
+pdfplumber
+python-dotenv
+tqdm
+PyMuPDF
+beautifulsoup4==4.12.3
+streamlit
